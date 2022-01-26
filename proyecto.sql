@@ -9,7 +9,6 @@ CREATE TABLE `figura` (
   `cod_plano` int(11) NOT NULL
 ) 
 
-
 CREATE TABLE `jefeProyecto` (
   `cod_jefeProyecto` int(11) NOT NULL,
   `nombre` text NOT NULL,
@@ -74,9 +73,7 @@ ALTER TABLE `plano`
   ADD PRIMARY KEY (`cod_plano`),
   ADD KEY `num_figuras` (`num_figuras`);
 
---
--- Indices de la tabla `poligono`
---
+
 ALTER TABLE `poligono`
   ADD PRIMARY KEY (`num_lineas`),
   ADD KEY `id_linea` (`id_linea`);
