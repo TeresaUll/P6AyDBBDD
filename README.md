@@ -1,6 +1,10 @@
 # Práctica 6: Arquitectos
 Práctica 6 de la asignatura AyDBBDD
 
+Sergio Pitti de Armas - alu0101232812
+Diego Rodríguez Pérez - alu0101203980
+Teresa Bonet Costa - alu0101523644
+
 # Modelo Objeto-Relacional VS Relacional
 
 La base de datos objeto-relacional es una extensión de la base de datos relacional tradicional, a la cual se le proporcionan características de la programación orientada a objetos.
